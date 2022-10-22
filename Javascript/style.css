@@ -1,4 +1,9 @@
-#demo1 {
+ body{
+    font-family: "poppins";
+    }
+    
+    
+      #demo1 {
         color: rgb(255, 0, 0);
         background-color: rgb(255, 190, 190);
         font-size: 36px;
@@ -17,7 +22,7 @@
       }
 
       h1 {
-        font-family: poppins;
+        font-family: "poppins";
         background-color: grey;
         color: black;
       }
